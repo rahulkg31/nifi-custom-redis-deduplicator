@@ -22,5 +22,5 @@
 
 ### Setup
 
-Add the `nifi-custom-redis-deduplicator-nar/target/nifi-custom-redis-deduplicator-nar-1.0.nar` file in the `lib/` directory.
+Add the `nifi-custom-redis-deduplicator-nar/target/nifi-custom-redis-deduplicator-nar-1.0.nar` file in the `lib/` directory of Nifi setup.
 
